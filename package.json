@@ -1,0 +1,22 @@
+{
+  "name": "frimpjs-modules",
+  "version": "1.0.0",
+  "description": "a javascript module library for backend and ui development",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richod1"
+  },
+  "keywords": [
+    "javaScript",
+    "library"
+  ],
+  "author": "Degraft Frimpong",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2"
+  }
+}
