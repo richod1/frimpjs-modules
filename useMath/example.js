@@ -1,4 +1,4 @@
-const math=require('./index')
+const math=require('./math')
 
 math.callbackSum(1,4,function(err,result){
     if(err){
